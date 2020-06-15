@@ -1,0 +1,36 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #000000 url(timg.jpg) no-repeat top center;
+    background-size:35% 100%;
+	font-size: 13px;
+	color: rgb(223, 19, 114);
+}
+#page{
+	width: auto;
+    height: 400px;
+    position: relative;
+}
+#content{
+	position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -600px;
+    margin-top: -200px;
+    width: 1200px;
+    height: 400px;
+    font-size: 13px;
+    text-align: center;
+}
+#post1{
+	text-align: center;
+}
+#post2{
+	text-align: center;
+}
+#post3{
+	text-align: center;
+}
+#post4{
+	text-align: center;
+}
